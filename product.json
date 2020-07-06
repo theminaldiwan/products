@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Ghee",
+    "brandname":"Ghee Rich Desi Danedar Ghee (Carton)",
+    "proprice": 450,
+    "sellprice": 414,
+    "proqty": 1,
+    "prooff": 8,
+    "image": "https://images.jdmagicbox.com/comp/delhi/p1/011pxx11.xx11.170904190425.z6p1/catalogue/amul-dairy-shahdara-delhi-dairy-product-retailers-yyebgrsrhe.jpg",
+    "category": "dairy"
+  },
+  {
+    "id": 2,
+    "name": "MilkFood",
+    "brandname":"MilkFood Rich Amul",
+    "proprice": 70,
+    "sellprice": 66.5,
+    "proqty": 1,
+    "prooff": 5,
+    "image": "https://5.imimg.com/data5/WN/XT/AW/SELLER-80635375/amul-silk-and-trim-milk-500x500.jpg",
+    "category": "dairy"
+  },
+  {
+    "id": 3,
+    "name": "Paneer",
+    "brandname":"Amul malai Paneer",
+    "proprice":100,
+    "sellprice": 90,
+    "proqty": 1,
+    "prooff": 10,
+    "image": "https://assetscdn1.paytm.com/images/catalog/product/F/FA/FASAMUL-MALAI-PBIGB98583211A4AB04/1562238682514_0.jpg?imwidth=282&impolicy=hq",
+    "category": "dairy"
+  },
+  {
+    "id": 4,
+    "name": "Cheese",
+    "brandname":"Cheese Amul dairy",
+    "proprice": 50,
+    "sellprice": 45,
+    "proqty": 1,
+    "prooff": 10,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVlZIG035vbCgooRxnD4dG_qQKFHRHXOi3fg&usqp=CAU",
+    "category": "dairy"
+  },
+  {
+   "id": 5,
+    "name": "Ghee",
+    "brandname":"Ghee Rich Desi Danedar Ghee (Carton)",
+    "proprice":"450",
+    "sellprice": 414,
+    "proqty": 1,
+    "prooff": 8,
+    "image": "https://images.jdmagicbox.com/comp/delhi/p1/011pxx11.xx11.170904190425.z6p1/catalogue/amul-dairy-shahdara-delhi-dairy-product-retailers-yyebgrsrhe.jpg",
+    "category": "dairy"
+  },
+  {
+    "id": 6,
+    "name": "Dahi",
+    "brandname":"Dahi- Amul Dahi",
+    "proprice": 100,
+    "sellprice": 90,
+    "proqty": 1,
+    "prooff": 10,
+    "image": "https://assetscdn1.paytm.com/images/catalog/product/F/FA/FASAMUL-MASTI-DBIG-985832F90A1D93/1585902974068_0.jpg?imwidth=282&impolicy=hq",
+    "category": "dairy"
+  },
+  {
+    "id": 7,
+    "name": "MilkPowder",
+    "brandname":"MilkPowder - Patanjali",
+    "proprice": 100,
+    "sellprice": 90,
+    "proqty": 1,
+    "prooff": 10,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMP1opBUujpRWDzi2sVnzcCBbb2OePVur9Lg&usqp=CAU",
+    "category": "dairy"
+  },
+  {
+    "id": 8,
+    "name": "Cow Milk",
+    "brandname":"Cow Milk - Patanjali",
+    "proprice": 50,
+    "sellprice": 45,
+    "proqty": 1,
+    "prooff": 10,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq925YGXsWsbWFGMug1h9N1F7FSom-HjZkFA&usqp=CAU",
+    "category": "dairy"
+  },
+  {
+    "id": 9,
+    "name": "Lassi",
+    "brandname":"Lassi - Haldiram",
+    "sellprice": 20,
+    "image": "https://4.imimg.com/data4/GF/IX/NSDMERP-10198661/haldiramdairyproduct-500x500.png",
+    "category": "dairy"
+  },
+  {
+    "id": 10,
+    "name": "Rusk Toast",
+    "brandname":"Toast - Haldiram",
+    "sellprice": 30,
+    "image": "https://lh3.googleusercontent.com/proxy/AYQeWNQd0Pp1DPCEz6l08r8r_wxNjcBpW0WmbuNTfoiCEP_0dbIti8pHWXnqT7MwEi2kcueBiP80p_xU9pmHGRIX9mjb6msn7mLxER4ljlwlthJYP_DFxyxadm48xcJu__jwfO0-oRXnrPxI3B0wqdl4JBYTBYNHYmPmmq_J",
+    "category": "dairy"
+  }
+]
